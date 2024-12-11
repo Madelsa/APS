@@ -13,12 +13,20 @@
     <a href="#technical-architecture">Architecture</a> •
     <a href="#development-team">Team</a>
   </p>
+  
   <br/>
   <img src="https://img.shields.io/badge/Status-MVP-blue" alt="Status"/>
   <img src="https://img.shields.io/badge/TypeScript-Next.js-blue" alt="Tech Stack"/>
   <img src="https://img.shields.io/badge/Database-MongoDB-green" alt="Database"/>
   <br/>
   <br/>
+  <p>
+    Discover the future of urban parking at <a href="https://parkit-ae.vercel.app" target="_blank">parkit-ae.vercel.app</a>
+  </p>
+
+  <p>
+  For more details, check out our <a href="https://itsrain.ae/Parkit.ae-FAQ" target="_blank">FAQ</a> about the SmartPark System.
+  </p>
 </div>
 
 ---
